@@ -177,3 +177,4 @@ class CategoryTransactionTypeAdapter
 // Commit 176: 2025-03-25T15:21:07
 // Commit 186: 2025-03-28T14:14:57
 // Commit 199: 2025-04-01T09:59:03
+// Commit 200: 2025-04-01T17:17:01
